@@ -59,15 +59,24 @@
 <table>
   <tr>
     <td><img src="https://cdn.countryflags.com/thumbs/saudi-arabia/flag-round-250.png" alt="ar" width="40" height="40"></td>
-    <td>Arabic (9/10)</td>
+    <td>Arabic</td>
+    <td>
+      <span>&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;</span>
+    </td>
   </tr>
   <tr>
     <td><img src="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png" alt="en" width="40" height="40"></td>
-    <td>English (6/10)</td>
+    <td>English</td>
+    <td>
+      <span>&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;&#9734;&#9734;</span>
+    </td>
   </tr>
   <tr>
     <td><img src="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" alt="fr" width="40" height="40"></td>
-    <td>French (8/10)</td>
+    <td>French</td>
+    <td>
+      <span>&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;</span>
+    </td>
   </tr>
 </table>
 
