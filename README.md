@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td><img src="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png" alt="en" width="40" height="40"></td>
-    <td>English (7/10)</td>
+    <td>English (6/10)</td>
   </tr>
   <tr>
     <td><img src="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" alt="fr" width="40" height="40"></td>
