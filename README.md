@@ -3,14 +3,16 @@
 
 <h3 align="center">I am a 21yo Moroccan developer, coder, and modeler, and I am open to collective project requests...</h3>
 <div align="center">
-
-![Video Games](https://img.shields.io/badge/Video%20Games-Modder-80c995)
-![Web Development](https://img.shields.io/badge/Web%20Development-HTML%2C%20CSS%2C%20JS-ff69b4)
-![Python](https://img.shields.io/badge/Python-3.9-8b5d9b)
-![AI](https://img.shields.io/badge/AI-Artificial%20Intelligence-ff8c00)
+  
+![Games Development](https://img.shields.io/badge/Games%20Development-Modder-4AB197?style=for-the-badge&logo=unity)
+![Web Development](https://img.shields.io/badge/Web%20Development-HTML%2C%20CSS%2C%20JS-FC5185?style=for-the-badge&logo=html5)
+![Python](https://img.shields.io/badge/Python-3.9-8C3D5D?style=for-the-badge&logo=python)
+![AI](https://img.shields.io/badge/AI-Artificial%20Intelligence-FFA726?style=for-the-badge&logo=tensorflow)
 <br> 
-![Mobile Apps](https://img.shields.io/badge/Mobile%20Apps-Android%20%7C%20iOS%20%7C%20React%20Native-4a90e2)
-![Freelance](https://img.shields.io/badge/Freelance-Open%20for%20projects-80c995)
+![Video Games Modding](https://img.shields.io/badge/Video%20Games-Modding-7CB342?style=for-the-badge&logo=steam)
+![Mobile Apps](https://img.shields.io/badge/Mobile%20Apps-Android%20%7C%20iOS%20%7C%20React%20Native-4285F4?style=for-the-badge&logo=android)
+![Freelance](https://img.shields.io/badge/Freelance-Open%20for%20projects-5E8D87?style=for-the-badge&logo=fiverr)
+
 
 </div>
 
