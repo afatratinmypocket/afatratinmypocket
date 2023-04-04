@@ -2,7 +2,7 @@
 <h1 align="center">Yo💙😆, my full name's OSSAMA ETTAQAFI</h1>
 <h3 align="center">Developer, Coder & Modeler.</h3>
 <div align="center"><img alt="rat animated image" width="300" src="https://i.ibb.co/QfQL2gS/sofuckedjnthebrain.gif"></div>
-<div align="center"><img alt="levelupfcklife" title="new game, new personality (i guess i'll choose the multi-personalities option xd)" width="320" src="https://user-images.githubusercontent.com/119759894/229655154-761a792e-9c01-4b74-a886-eb8f62775ce9.png"></div>
+<div align="center"><img alt="levelupfcklife" title="new game, new personality (i guess i'll choose the multi-personalities option xd)" width="320" src="https://user-images.githubusercontent.com/119759894/229655757-b94e94e8-18ab-4044-a187-3dc2bdd01145.png"></div>
 
 <h3 align="left">Some stuff about me :</h3>
 
