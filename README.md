@@ -1,8 +1,8 @@
 <div align="center"><img alt="welcome" title="if u fcked w/ me, my angels'll haunt u :)" width="1000" src="https://i.ibb.co/7zKRkjX/hakkaimalove.gif"></div>
 <h1 align="center">Yo💙😆, my full name's OSSAMA ETTAQAFI</h1>
 <h3 align="center">Developer, Coder & Modeler.</h3>
-<div align="center"><img alt="levelupfcklife" title="new game, new personality (i guess i'll choose the multi-personalities option xd)" width="300" src="https://i.ibb.co/QfQL2gS/sofuckedjnthebrain.gif"></div>
-<div align="center"><img alt="levelupfcklife" title="intro.exe" width="300" src="https://i.ibb.co/7JdzYRZ/OSSAMA-scool.gif"></div>
+<div align="center"><img alt="levelupfcklife" title="new game, new personality (i guess i'll choose the multi-personalities option xd)" width="220" src="https://i.ibb.co/QfQL2gS/sofuckedjnthebrain.gif"></div>
+<div align="center"><img alt="intro.exe" title="intro" width="280" src="https://i.ibb.co/7JdzYRZ/OSSAMA-scool.gif"></div>
 
 <h3 align="left">Some stuff about me :</h3>
 
@@ -52,7 +52,7 @@
 
 <h3 align="left">A word to add :</h3>
 <p>Don't call yourself a developer or an extraordinary person full of shit in IT if all your projects and thoughts depend on AI, unless they are stolen from someone else.</p>
-<img align="center" alt="LOSER (L)" width="350" src="https://i.ibb.co/hKSXG90/Losers-haha.gif">
+<img align="center" alt="LOSER (L)" title="ugly mutant rat gang, kill kill kill!!!" width="350" src="https://i.ibb.co/hKSXG90/Losers-haha.gif">
 
 <h3 align="left">Concact :</h3>
 <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="35px" align="left"/><p>XARATSHI#8145</p>
