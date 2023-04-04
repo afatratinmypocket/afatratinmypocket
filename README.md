@@ -1,10 +1,9 @@
 <div align="center"><img alt="welcome" title="if u fcked w/ me, my angels'll haunt u :)" width="1000" src="https://i.ibb.co/7zKRkjX/hakkaimalove.gif"></div>
 <h1 align="center">Yo💙😆, my full name's OSSAMA ETTAQAFI</h1>
 
+<h3 align="center">I am a 21yo Moroccan developer, coder, and modeler, and I am open to collective project requests...</h3>
 <div align="center">
 
-![Welcome](https://img.shields.io/badge/Welcome!-I%20am%2021yo%20Moroccan%20developer%2C%20coder%2C%20and%20modeler%2C%20and%20I%20am%20open%20to%20collective%20project%20requests.-6f42c1)
-<br>
 ![Video Games](https://img.shields.io/badge/Video%20Games-Modder-80c995)
 ![Web Development](https://img.shields.io/badge/Web%20Development-HTML%2C%20CSS%2C%20JS-ff69b4)
 ![Python](https://img.shields.io/badge/Python-3.9-8b5d9b)
@@ -13,7 +12,6 @@
 ![Mobile Apps](https://img.shields.io/badge/Mobile%20Apps-Android%20%7C%20iOS%20%7C%20React%20Native-4a90e2)
 ![Freelance](https://img.shields.io/badge/Freelance-Open%20for%20projects-80c995)
 
-  
 </div>
 
 
