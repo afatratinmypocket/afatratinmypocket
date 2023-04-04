@@ -1,7 +1,7 @@
 <div align="center"><img alt="welcome" title="if u fcked w/ me, my angels'll haunt u :)" width="1000" src="https://i.ibb.co/7zKRkjX/hakkaimalove.gif"></div>
 <h1 align="center">Yo💙😆, my full name's OSSAMA ETTAQAFI</h1>
 
-<h3 align="center">I am a 21yo Moroccan developer, coder, and modeler, and I am open to collective project requests...</h3>
+<h3 align="center">I am a 21yo Moroccan developer, coder, and modeler, and I am open to collective project requests.</h3>
 <div align="center">
   
 ![Games Development](https://img.shields.io/badge/Games%20Development-2D/3D-4AB197?style=for-the-badge&logo=unity)
@@ -78,9 +78,11 @@
 <h3 align="left">Future :</h3>
 <p>My aspirations in life are simple - a modest existence, away from the cacophony of the world. Though I choose to keep the details of my personal life and thoughts private, rest assured that I have set myself rational objectives to attain before my 28th year. With unwavering belief and perseverance, I firmly believe that anything can be accomplished. So let us march forward, with quiet determination, towards our desired destinations.</p>
 
+<!--
 <h3 align="left">A word to add :</h3>
 <p>Don't call yourself a developer or an extraordinary person full of shit in IT if all your projects and thoughts depend on AI, unless they are stolen from someone else.</p>
 <img align="center" alt="LOSER (L)" title="ugly mutant rat gang, kill kill kill!!!" width="350" src="https://i.ibb.co/hKSXG90/Losers-haha.gif">
+-->
 
 <h3 align="left">Concact :</h3>
 <a href="https://discord.com/users/714966017427767296" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/discord-logo-png-transparent.png" width="40" height="40" align="left" title="XARATSHI"/></a>
