@@ -4,7 +4,7 @@
 <h3 align="center">I am a 21yo Moroccan developer, coder, and modeler, and I am open to collective project requests...</h3>
 <div align="center">
   
-![Games Development](https://img.shields.io/badge/Games%20Development-Modder-4AB197?style=for-the-badge&logo=unity)
+![Games Development](https://img.shields.io/badge/Games%20Development-2D/3D-4AB197?style=for-the-badge&logo=unity)
 ![Web Development](https://img.shields.io/badge/Web%20Development-HTML%2C%20CSS%2C%20JS-FC5185?style=for-the-badge&logo=html5)
 ![Python](https://img.shields.io/badge/Python-3.9-8C3D5D?style=for-the-badge&logo=python)
 ![AI](https://img.shields.io/badge/AI-Artificial%20Intelligence-FFA726?style=for-the-badge&logo=tensorflow)
