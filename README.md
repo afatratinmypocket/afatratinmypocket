@@ -14,7 +14,6 @@
 ![Freelance](https://img.shields.io/badge/Freelance-Open%20for%20projects-5E8D87?style=for-the-badge&logo=fiverr)
 
 </div>
-```python
 
 <div align="center"><img alt="levelupfcklife" title="new game, new personality (i guess i'll choose the multi-personalities option xd)" width="220" src="https://i.ibb.co/QfQL2gS/sofuckedjnthebrain.gif"></div>
 <div align="center"><img alt="intro.exe" title="intro" width="280" src="https://i.ibb.co/7JdzYRZ/OSSAMA-scool.gif"></div>
@@ -55,9 +54,21 @@
 
 <h3 align="left">Languages :</h3>
 <p>I have three principal languages,</p>
-<img src="https://static.vecteezy.com/system/resources/previews/011/571/250/non_2x/circle-flag-of-saudi-arabia-free-png.png" alt="react" width="36px" align="left"/><p align="left">Arabic (9/10)</p>
-<img src="https://www.pngarts.com/files/7/USA-Flag-Transparent-Images.png" alt="react" width="35px" align="left"/><p align="left">English (7/10)</p>
-<img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" alt="react" width="35px" align="left"/><p align="left">French (8/10)</p>
+<table>
+  <tr>
+    <td><img src="https://cdn.countryflags.com/thumbs/saudi-arabia/flag-round-250.png" alt="ar" width="40" height="40"></td>
+    <td>Arabic (9/10)</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png" alt="en" width="40" height="40"></td>
+    <td>English (7/10)</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" alt="fr" width="40" height="40"></td>
+    <td>French (8/10)</td>
+  </tr>
+</table>
+
 
 <h3 align="left">Next steps :</h3>
 <p>I have too many projects to share on my profile. I just need some time to collect them from my old hard disk and then upload them all at once. They are old projects related to my experience in developing mods for games such as Counter-Strike 1.6, Half-Life, SAMP, and other programs.</p>
@@ -70,5 +81,6 @@
 <img align="center" alt="LOSER (L)" title="ugly mutant rat gang, kill kill kill!!!" width="350" src="https://i.ibb.co/hKSXG90/Losers-haha.gif">
 
 <h3 align="left">Concact :</h3>
-<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="35px" align="left"/><a href="https://www.linkedin.com/in/afatratinmypocket/" target="_blank" rel="noreferrer">XARATSHI#8145</a>
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32px" align="left"/><a href="https://www.linkedin.com/in/afatratinmypocket/" target="_blank" rel="noreferrer"><p>OSSAMA ETTAQAFI</p></a>
+<a href="https://discord.com/users/714966017427767296" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/discord-logo-png-transparent.png" width="40" height="40" align="left" title="XARATSHI"/></a>
+<a href="https://www.linkedin.com/in/afatratinmypocket/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" align="left" title="OSSAMA ETTAQAFI"/></a>
+
