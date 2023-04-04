@@ -13,9 +13,8 @@
 ![Mobile Apps](https://img.shields.io/badge/Mobile%20Apps-Android%20%7C%20iOS%20%7C%20React%20Native-4285F4?style=for-the-badge&logo=android)
 ![Freelance](https://img.shields.io/badge/Freelance-Open%20for%20projects-5E8D87?style=for-the-badge&logo=fiverr)
 
-
 </div>
-
+```python
 
 <div align="center"><img alt="levelupfcklife" title="new game, new personality (i guess i'll choose the multi-personalities option xd)" width="220" src="https://i.ibb.co/QfQL2gS/sofuckedjnthebrain.gif"></div>
 <div align="center"><img alt="intro.exe" title="intro" width="280" src="https://i.ibb.co/7JdzYRZ/OSSAMA-scool.gif"></div>
@@ -71,5 +70,5 @@
 <img align="center" alt="LOSER (L)" title="ugly mutant rat gang, kill kill kill!!!" width="350" src="https://i.ibb.co/hKSXG90/Losers-haha.gif">
 
 <h3 align="left">Concact :</h3>
-<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="35px" align="left"/><p>XARATSHI#8145</p>
+<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="35px" align="left"/><a href="https://www.linkedin.com/in/afatratinmypocket/" target="_blank" rel="noreferrer">XARATSHI#8145</a>
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32px" align="left"/><a href="https://www.linkedin.com/in/afatratinmypocket/" target="_blank" rel="noreferrer"><p>OSSAMA ETTAQAFI</p></a>
