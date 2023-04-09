@@ -1,4 +1,4 @@
-<div align="center"><img alt="welcome" title="if u fcked w/ me, my angels'll haunt u :)" width="1000" src="https://i.ibb.co/7zKRkjX/hakkaimalove.gif"></div>
+<div align="center"><img alt="welcome" title="anime scene" width="1000" src="https://i.ibb.co/7zKRkjX/hakkaimalove.gif"></div>
 <h1 align="center">Yo💙😆, my full name's OSSAMA ETTAQAFI</h1>
 
 <h3 align="center">I'm a 21yo Moroccan developer open to collaboration.</h3>
@@ -15,8 +15,8 @@
 
 </div>
 
-<div align="center"><img alt="levelupfcklife" title="new game, new personality (i guess i'll choose the multi-personalities option xd)" width="220" src="https://i.ibb.co/QfQL2gS/sofuckedjnthebrain.gif"></div>
-<div align="center"><img alt="intro.exe" title="intro" width="280" src="https://i.ibb.co/7JdzYRZ/OSSAMA-scool.gif"></div>
+<div align="center"><img alt="levelupfcklife" title="loading..." width="220" src="https://i.ibb.co/QfQL2gS/sofuckedjnthebrain.gif"></div>
+<div align="center"><img alt="intro.exe" title="introduction" width="280" src="https://i.ibb.co/7JdzYRZ/OSSAMA-scool.gif"></div>
 
 <h3 align="left">Some stuff about me :</h3>
 
@@ -90,7 +90,7 @@
 <!--
 <h3 align="left">A word to add :</h3>
 <p>Don't call yourself a developer or an extraordinary person full of shit in IT if all your projects and thoughts depend on AI, unless they are stolen from someone else.</p>
-<img align="center" alt="LOSER (L)" title="ugly mutant rat gang, kill kill kill!!!" width="350" src="https://i.ibb.co/hKSXG90/Losers-haha.gif">
+<img align="center" alt="LOSER (L)" title="mutant rat" width="350" src="https://i.ibb.co/hKSXG90/Losers-haha.gif">
 -->
 
 <h3 align="left">Concact :</h3>
