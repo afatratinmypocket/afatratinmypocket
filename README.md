@@ -143,7 +143,7 @@
 <h3 align="left">Future :</h3>
 <p>My aspirations in life are simple - a modest existence, away from the cacophony of the world. Though I choose to keep the details of my personal life and thoughts private, rest assured that I have set myself rational objectives to attain before my 28th year. With unwavering belief and perseverance, I firmly believe that anything can be accomplished. So let us march forward, with quiet determination, towards our desired destinations.</p>
 
-<h3 align="left">Concact :</h3>
+<h3 align="left">Contact :</h3>
 <a href="https://discord.com/users/714966017427767296" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/discord-logo-png-transparent.png" width="40" height="40" align="left" title="XARATSHI"/></a>
 <a href="https://www.linkedin.com/in/afatratinmypocket/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" align="left" title="OSSAMA ETTAQAFI"/></a>
 <a href="https://stackoverflow.com/users/14837577/ossama-ettaqafi" target="_blank" rel="noreferrer">
