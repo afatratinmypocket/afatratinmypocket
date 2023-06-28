@@ -146,4 +146,6 @@
 <h3 align="left">Concact :</h3>
 <a href="https://discord.com/users/714966017427767296" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/discord-logo-png-transparent.png" width="40" height="40" align="left" title="XARATSHI"/></a>
 <a href="https://www.linkedin.com/in/afatratinmypocket/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" align="left" title="OSSAMA ETTAQAFI"/></a>
-
+<a href="https://stackoverflow.com/users/14837577/ossama-ettaqafi" target="_blank" rel="noreferrer">
+  <img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a" width="40" height="40" align="left" title="OSSAMA ETTAQAFI"/>
+</a>
