@@ -1,7 +1,7 @@
 <div align="center"><img alt="welcome" title="anime scene" width="1000" src="https://i.ibb.co/7zKRkjX/hakkaimalove.gif"></div>
 <h1 align="center">Yo💙😆, my full name's OSSAMA ETTAQAFI</h1>
 
-<h3 align="center">I'm a 21yo Moroccan developer open to collaboration.</h3>
+<h3 align="center">I'M A 21-YO MOROCCAN DEVELOPER OPEN TO COLLABORATION</h3>
 <div align="center">
   
 ![Games Development](https://img.shields.io/badge/Games%20Development-2D/3D-4AB197?style=for-the-badge&logo=unity)
